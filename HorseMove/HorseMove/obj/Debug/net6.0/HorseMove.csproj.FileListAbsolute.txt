@@ -1,0 +1,15 @@
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\bin\Debug\net6.0\HorseMove.exe
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\bin\Debug\net6.0\HorseMove.deps.json
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\bin\Debug\net6.0\HorseMove.runtimeconfig.json
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\bin\Debug\net6.0\HorseMove.dll
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\bin\Debug\net6.0\HorseMove.pdb
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\HorseMove.csproj.AssemblyReference.cache
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\HorseMove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\HorseMove.AssemblyInfoInputs.cache
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\HorseMove.AssemblyInfo.cs
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\HorseMove.csproj.CoreCompileInputs.cache
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\HorseMove.dll
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\refint\HorseMove.dll
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\HorseMove.pdb
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\HorseMove.genruntimeconfig.cache
+C:\Users\zatwo\Desktop\HorseMove\HorseMove\obj\Debug\net6.0\ref\HorseMove.dll
