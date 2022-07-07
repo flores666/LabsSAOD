@@ -1,0 +1,15 @@
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\bin\Debug\net6.0\SearchMethods.exe
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\bin\Debug\net6.0\SearchMethods.deps.json
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\bin\Debug\net6.0\SearchMethods.runtimeconfig.json
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\bin\Debug\net6.0\SearchMethods.dll
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\bin\Debug\net6.0\SearchMethods.pdb
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\SearchMethods.csproj.AssemblyReference.cache
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\SearchMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\SearchMethods.AssemblyInfoInputs.cache
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\SearchMethods.AssemblyInfo.cs
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\SearchMethods.csproj.CoreCompileInputs.cache
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\SearchMethods.dll
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\refint\SearchMethods.dll
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\SearchMethods.pdb
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\SearchMethods.genruntimeconfig.cache
+C:\Users\zatwo\Desktop\Labs\SearchMethods\SearchMethods\obj\Debug\net6.0\ref\SearchMethods.dll
