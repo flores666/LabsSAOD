@@ -1,0 +1,15 @@
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\bin\Debug\net6.0\SortMethods.exe
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\bin\Debug\net6.0\SortMethods.deps.json
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\bin\Debug\net6.0\SortMethods.runtimeconfig.json
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\bin\Debug\net6.0\SortMethods.dll
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\bin\Debug\net6.0\SortMethods.pdb
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\SortMethods.csproj.AssemblyReference.cache
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\SortMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\SortMethods.AssemblyInfoInputs.cache
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\SortMethods.AssemblyInfo.cs
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\SortMethods.csproj.CoreCompileInputs.cache
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\SortMethods.dll
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\refint\SortMethods.dll
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\SortMethods.pdb
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\SortMethods.genruntimeconfig.cache
+C:\Users\zatwo\Desktop\Labs\SortMethods\SortMethods\obj\Debug\net6.0\ref\SortMethods.dll
